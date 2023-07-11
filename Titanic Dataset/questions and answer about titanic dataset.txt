@@ -1,0 +1,31 @@
+questions and answer for Titanic dataset---------
+
+q.1 what is the Total Count of survival and dead people?
+a: Among the total count of 891 individuals, 342 individuals were fortunate enough to survive, while 549 individuals unfortunately lost their lives.
+
+q.2 which gender has more survival rate?
+a:Females had the highest survival rate, with an impressive 64%, while males had a significantly lower survival rate of only 18%.
+
+q.3 did economy class had an impact on survival?
+a: The economy class exhibited the highest survival rate at 62%, indicating a higher likelihood of survival for passengers in this class.
+ The second-class passengers had a survival rate of 47%, while the third-class passengers had the lowest survival rate at 24%.
+
+q.4 how is fare distribute with the passenger age?
+a: The data shows that younger people generally bought the more expensive fares compared to older people.
+ This suggests a connection between age and fare prices, with younger individuals tending to opt for higher-priced tickets on average.
+
+q.5 what is the co-relation between age and survival rate?
+a:Indeed, the age and survival rate exhibit a negative correlation, indicating that older individuals had a lower chance of survival.
+ On the other hand, younger people had a higher likelihood of surviving under those circumstances.
+
+q.6 did solo traveller has less chances of survival?
+a:The data reveals that group travelers had a higher chance of survival compared to solo travelers, with a survival rate of 50% for group travelers and 30% for solo travelers.
+ This suggests that being part of a group provided a higher probability of surviving the given circumstances.
+
+q.7 how did total member size affected survival count?
+a: Among families on board, those with a member size of 3 had the highest survival rate, with an impressive 72% managing to survive. 
+However, families with 7 and 10 members unfortunately did not survive, resulting in a survival rate of 0% for those particular family sizes.
+
+q.8 what is survival rate based on person type(adult,infrant,child)?
+a: Infants exhibited the highest survival rate, with an impressive 80% managing to survive.
+ Children had a slightly lower survival rate of 50%, while adults had the lowest survival rate at 36%.
